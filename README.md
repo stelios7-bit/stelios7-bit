@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Harsh Kumar Kaithwas</h1>
+<h1 align="center">Harsh Kumar Kaithwas</h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
 
 ---
 
-### 🔗 Connect with me:
+### 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A237E?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harsh-kumarkaithwas07)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFB300?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/HarshKaithwas/)
-
-
 
 ---
 
