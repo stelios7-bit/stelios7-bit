@@ -20,13 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshKaithwas&show_icons=true&theme=github_dark" width="48%" />
-</p>
-
----
-
 ### 🧠 Currently Learning:
 - Spring Boot
 - Hibernate
