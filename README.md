@@ -5,7 +5,7 @@
 
 ### 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A237E?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harsh-kumarkaithwas07)
-https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FHarshKaithwas&query=%24.totalSolved&color=Indigo
+![LeetCode Stats](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FHarshKaithwas&query=%24.totalSolved&color=Indigo&label=LeetCode&style=for-the-badge)
 
 ---
 
