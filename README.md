@@ -36,6 +36,8 @@
 
 <!-- ======================= ABOUT ======================= -->
 
+<img width="100%" src="./assets/footer-v2.png" alt="" />
+
 ## 👋 About Me
 
 > Smart contract developer focused on **Solidity**, security, and **DeFi** — around 9 months building onchain after a Java backend background.
