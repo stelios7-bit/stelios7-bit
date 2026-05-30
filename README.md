@@ -36,7 +36,7 @@
 
 <!-- ======================= ABOUT ======================= -->
 
-<img src="./assets/hdr-about.png" alt="About Me" height="44" />
+<img src="./assets/hdr-about-2.png" alt="About Me" height="44" />
 
 > Smart contract developer focused on **Solidity**, security, and **DeFi** — around 9 months building onchain after a Java backend background.
 
@@ -49,22 +49,22 @@
 
 <!-- ======================= WHAT I WORK WITH ======================= -->
 
-<img src="./assets/hdr-work.png" alt="What I Work With" height="44" />
+<img src="./assets/hdr-work-2.png" alt="What I Work With" height="44" />
 
-**<img src="https://api.iconify.design/lucide/file-code-2.svg?color=%237c3aed&height=20" height="18" align="center" /> &nbsp; Smart Contracts**
+**Smart Contracts**
 - Solidity · EVM internals (opcodes, gas, storage)
 - Upgradeable contracts — proxy patterns & storage layout
 - ERC standards · OpenZeppelin patterns
 
-**<img src="https://api.iconify.design/lucide/shield-check.svg?color=%237c3aed&height=20" height="18" align="center" /> &nbsp; Security**
+**Security**
 - Reentrancy · access control · oracle manipulation
 - Attack-vector analysis & defensive design
 
-**<img src="https://api.iconify.design/lucide/flask-conical.svg?color=%237c3aed&height=20" height="18" align="center" /> &nbsp; Testing &amp; Tooling**
+**Testing &amp; Tooling**
 - Foundry — unit, fuzz, invariant, mainnet-fork
 - Hardhat · Tenderly · MetaMask · Git
 
-**<img src="https://api.iconify.design/lucide/landmark.svg?color=%237c3aed&height=20" height="18" align="center" /> &nbsp; DeFi**
+**DeFi**
 - Lending & borrowing · interest-rate models
 - Liquidations (incl. toxic liquidation) · AMMs
 
