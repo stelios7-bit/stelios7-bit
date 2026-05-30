@@ -70,8 +70,8 @@
 
 <!-- ======================= PROTOCOLS ======================= -->
 
-<img src="./assets/hdr-proto.png" alt="Protocols I Study" height="44" />
+<img src="./assets/hdr-proto-2.png" alt="Protocols I Study" height="44" />
 
-- <img src="https://api.iconify.design/lucide/landmark.svg?color=%237c3aed&height=18" height="16" align="center" /> &nbsp; **Aave** — interest-rate models & liquidation mechanics
-- <img src="https://api.iconify.design/lucide/banknote.svg?color=%237c3aed&height=18" height="16" align="center" /> &nbsp; **Venus** — lending markets on BNB Chain
-- <img src="https://api.iconify.design/lucide/arrow-left-right.svg?color=%237c3aed&height=18" height="16" align="center" /> &nbsp; **Uniswap** — AMM & constant-product math
+- **Aave** — interest-rate models & liquidation mechanics
+- **Venus** — lending markets on BNB Chain
+- **Uniswap** — AMM & constant-product math
