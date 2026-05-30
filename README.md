@@ -93,12 +93,9 @@ contract Harsh {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=stelios7-bit&show_icons=true&count_private=true&hide_border=true&title_color=00E5FF&icon_color=6e00ff&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=stelios7-bit&hide_border=true&background=0d1117&stroke=6e00ff&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+<img height="170" src="https://streak-stats.demolab.com/?user=stelios7-bit&hide_border=true&background=0d1117&stroke=6e00ff&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=stelios7-bit&bg_color=0d1117&color=00e5ff&line=6e00ff&point=ffffff&area=true&hide_border=true" alt="activity" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=stelios7-bit&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=stelios7-bit&bg_color=0d1117&color=00e5ff&line=6e00ff&point=ffffff&area=true&hide_border=true" alt="activity" />
 
 </div>
 
