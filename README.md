@@ -36,7 +36,7 @@
 
 <!-- ======================= ABOUT ======================= -->
 
-## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%237c3aed&height=26" height="26" align="center" /> About Me
+<img src="./assets/hdr-about.png" alt="About Me" height="44" />
 
 > Smart contract developer focused on **Solidity**, security, and **DeFi** — around 9 months building onchain after a Java backend background.
 
@@ -49,7 +49,7 @@
 
 <!-- ======================= WHAT I WORK WITH ======================= -->
 
-## <img src="https://api.iconify.design/lucide/wrench.svg?color=%237c3aed&height=26" height="26" align="center" /> What I Work With
+<img src="./assets/hdr-work.png" alt="What I Work With" height="44" />
 
 **<img src="https://api.iconify.design/lucide/file-code-2.svg?color=%237c3aed&height=20" height="18" align="center" /> &nbsp; Smart Contracts**
 - Solidity · EVM internals (opcodes, gas, storage)
@@ -70,7 +70,7 @@
 
 <!-- ======================= PROTOCOLS ======================= -->
 
-## <img src="https://api.iconify.design/lucide/microscope.svg?color=%237c3aed&height=26" height="26" align="center" /> Protocols I Study
+<img src="./assets/hdr-proto.png" alt="Protocols I Study" height="44" />
 
 - <img src="https://api.iconify.design/lucide/landmark.svg?color=%237c3aed&height=18" height="16" align="center" /> &nbsp; **Aave** — interest-rate models & liquidation mechanics
 - <img src="https://api.iconify.design/lucide/banknote.svg?color=%237c3aed&height=18" height="16" align="center" /> &nbsp; **Venus** — lending markets on BNB Chain
