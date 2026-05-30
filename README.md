@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 <div align="center">
 
-<img width="100%" src="./assets/header.png" alt="STELIOS — Smart Contract Developer" />
+<img width="100%" src="./assets/banner.png" alt="STELIOS" />
 
 <br/>
 
