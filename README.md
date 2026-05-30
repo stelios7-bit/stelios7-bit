@@ -38,50 +38,42 @@
 
 <img width="100%" src="./assets/divider-v2.png" alt="" />
 
-## 👋 About Me
+## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%2300e5ff&height=26" height="26" align="center" /> About Me
 
 > Smart contract developer focused on **Solidity**, security, and **DeFi** — around 9 months building onchain after a Java backend background.
 
-- 🔭 Building my first onchain projects in **Solidity + Foundry**
-- 🛡️ Going deep on **smart-contract security** and attack-vector analysis
-- 🏦 Reverse-engineering production **DeFi** — Aave, Venus, Uniswap
-- 🧪 Testing hard with **Foundry** — unit, fuzz, invariant, mainnet-fork
-- 🌱 Exploring **Rust** and **Go** for off-chain tooling
-- ⚡ Origin: started in Java backend, now fully onchain
+- <img src="https://api.iconify.design/lucide/rocket.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; Building my first onchain projects in **Solidity + Foundry**
+- <img src="https://api.iconify.design/lucide/shield-check.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; Going deep on **smart-contract security** and attack-vector analysis
+- <img src="https://api.iconify.design/lucide/landmark.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; Reverse-engineering production **DeFi** — Aave, Venus, Uniswap
+- <img src="https://api.iconify.design/lucide/flask-conical.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; Testing hard with **Foundry** — unit, fuzz, invariant, mainnet-fork
+- <img src="https://api.iconify.design/lucide/sprout.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; Exploring **Rust** and **Go** for off-chain tooling
+- <img src="https://api.iconify.design/lucide/git-branch.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; Origin: started in Java backend, now fully onchain
 
 <!-- ======================= WHAT I WORK WITH ======================= -->
 
-## 🧰 What I Work With
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%2300e5ff&height=26" height="26" align="center" /> What I Work With
 
-**📝 Smart Contracts**
+**<img src="https://api.iconify.design/lucide/file-code-2.svg?color=%2300e5ff&height=20" height="18" align="center" /> &nbsp; Smart Contracts**
 - Solidity · EVM internals (opcodes, gas, storage)
 - Upgradeable contracts — proxy patterns & storage layout
 - ERC standards · OpenZeppelin patterns
 
-**🛡️ Security**
+**<img src="https://api.iconify.design/lucide/shield-check.svg?color=%2300e5ff&height=20" height="18" align="center" /> &nbsp; Security**
 - Reentrancy · access control · oracle manipulation
 - Attack-vector analysis & defensive design
 
-**🧪 Testing & Tooling**
+**<img src="https://api.iconify.design/lucide/flask-conical.svg?color=%2300e5ff&height=20" height="18" align="center" /> &nbsp; Testing &amp; Tooling**
 - Foundry — unit, fuzz, invariant, mainnet-fork
 - Hardhat · Tenderly · MetaMask · Git
 
-**🏦 DeFi**
+**<img src="https://api.iconify.design/lucide/landmark.svg?color=%2300e5ff&height=20" height="18" align="center" /> &nbsp; DeFi**
 - Lending & borrowing · interest-rate models
 - Liquidations (incl. toxic liquidation) · AMMs
 
 <!-- ======================= PROTOCOLS ======================= -->
 
-## 🔬 Protocols I Study
+## <img src="https://api.iconify.design/lucide/microscope.svg?color=%2300e5ff&height=26" height="26" align="center" /> Protocols I Study
 
-- 🏦 **Aave** — interest-rate models & liquidation mechanics
-- 🟡 **Venus** — lending markets on BNB Chain
-- 🦄 **Uniswap** — AMM & constant-product math
-
-<!-- ======================= FOOTER ======================= -->
-
-<div align="center">
-
-<img width="100%" src="./assets/footer-v2.png" alt="" />
-
-</div>
+- <img src="https://api.iconify.design/lucide/landmark.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; **Aave** — interest-rate models & liquidation mechanics
+- <img src="https://api.iconify.design/lucide/banknote.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; **Venus** — lending markets on BNB Chain
+- <img src="https://api.iconify.design/lucide/arrow-left-right.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; **Uniswap** — AMM & constant-product math
