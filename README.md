@@ -42,12 +42,12 @@
 
 > Smart contract developer focused on **Solidity**, security, and **DeFi** — around 9 months building onchain after a Java backend background.
 
-- <img src="https://api.iconify.design/lucide/rocket.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; Building my first onchain projects in **Solidity + Foundry**
-- <img src="https://api.iconify.design/lucide/shield-check.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; Going deep on **smart-contract security** and attack-vector analysis
-- <img src="https://api.iconify.design/lucide/landmark.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; Reverse-engineering production **DeFi** — Aave, Venus, Uniswap
-- <img src="https://api.iconify.design/lucide/flask-conical.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; Testing hard with **Foundry** — unit, fuzz, invariant, mainnet-fork
-- <img src="https://api.iconify.design/lucide/sprout.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; Exploring **Rust** and **Go** for off-chain tooling
-- <img src="https://api.iconify.design/lucide/git-branch.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; Origin: started in Java backend, now fully onchain
+- Building my first onchain projects in **Solidity + Foundry**
+- Going deep on **smart-contract security** and attack-vector analysis
+- Reverse-engineering production **DeFi** — Aave, Venus, Uniswap
+- Testing hard with **Foundry** — unit, fuzz, invariant, mainnet-fork
+- Exploring **Rust** and **Go** for off-chain tooling
+- Origin: started in Java backend, now fully onchain
 
 <!-- ======================= WHAT I WORK WITH ======================= -->
 
