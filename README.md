@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=00E5FF)
+![Solidity](https://img.shields.io/badge/Solidity-1A1A1A?style=for-the-badge&logo=solidity&logoColor=00E5FF)
 ![Foundry](https://img.shields.io/badge/Foundry-1A1A1A?style=for-the-badge&logo=ethereum&logoColor=00E5FF)
 ![Ethereum](https://img.shields.io/badge/Ethereum-1A1A1A?style=for-the-badge&logo=ethereum&logoColor=627EEA)
 ![EVM](https://img.shields.io/badge/EVM-1A1A1A?style=for-the-badge&logo=ethereum&logoColor=6e00ff)
