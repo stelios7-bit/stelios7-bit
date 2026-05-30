@@ -81,16 +81,6 @@
 - 🦄 **Uniswap** — AMM & constant-product math
 - 💰 **Compound** — money-market design
 
-<!-- ======================= STATS ======================= -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175" src="https://streak-stats.demolab.com/?user=stelios7-bit&hide_border=true&background=0d1117&stroke=6e00ff&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
-
-</div>
-
 <!-- ======================= FOOTER ======================= -->
 
 <div align="center">
