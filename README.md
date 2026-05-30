@@ -20,24 +20,50 @@
 
 <!-- ======================= ABOUT ======================= -->
 
-## About
+## 👋 About Me
 
-> Smart contract developer focused on **Solidity**, contract security, and DeFi — around 9 months building onchain after a Java backend background.
+> Smart contract developer focused on **Solidity**, security, and **DeFi** — around 9 months building onchain after a Java backend background.
 
-I write production-style contracts and test them hard in **Foundry** (unit, fuzz, invariant, and mainnet-fork). I study **smart-contract security** and common attack vectors, and reverse-engineer real DeFi protocols to understand how lending, interest-rate models, liquidations, and AMMs actually work under the hood.
+- 🔭 Building my first onchain projects in **Solidity + Foundry**
+- 🛡️ Going deep on **smart-contract security** and attack-vector analysis
+- 🏦 Reverse-engineering production **DeFi** — Aave, Venus, Uniswap
+- 🧪 Testing hard with **Foundry** — unit, fuzz, invariant, mainnet-fork
+- 🌱 Exploring **Rust** and **Go** for off-chain tooling
+- ⚡ Origin: started in Java backend, now fully onchain
 
-| Area | What I work with |
-| :-- | :-- |
-| **Smart Contracts** | Solidity · EVM internals (opcodes, gas, storage) · upgradeable proxy patterns |
-| **Security** | Reentrancy · access control · oracle manipulation · attack-vector analysis |
-| **Testing** | Foundry — unit, fuzz, invariant, mainnet-fork |
-| **DeFi** | Lending & borrowing · interest-rate models · liquidations · AMMs |
-| **Protocols studied** | Aave · Venus · Uniswap |
-| **Tooling** | Foundry · Hardhat · Tenderly · MetaMask |
+<!-- ======================= WHAT I WORK WITH ======================= -->
+
+## 🧰 What I Work With
+
+**📝 Smart Contracts**
+- Solidity · EVM internals (opcodes, gas, storage)
+- Upgradeable contracts — proxy patterns & storage layout
+- ERC standards · OpenZeppelin patterns
+
+**🛡️ Security**
+- Reentrancy · access control · oracle manipulation
+- Attack-vector analysis & defensive design
+
+**🧪 Testing & Tooling**
+- Foundry — unit, fuzz, invariant, mainnet-fork
+- Hardhat · Tenderly · MetaMask · Git
+
+**🏦 DeFi**
+- Lending & borrowing · interest-rate models
+- Liquidations (incl. toxic liquidation) · AMMs
+
+<!-- ======================= PROTOCOLS ======================= -->
+
+## 🔬 Protocols I Study
+
+- 🏦 **Aave** — interest-rate models & liquidation mechanics
+- 🟡 **Venus** — lending markets on BNB Chain
+- 🦄 **Uniswap** — AMM & constant-product math
+- 💰 **Compound** — money-market design
 
 <!-- ======================= TECH STACK ======================= -->
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -58,20 +84,15 @@ I write production-style contracts and test them hard in **Foundry** (unit, fuzz
 ![Rust](https://img.shields.io/badge/Rust-1A1A1A?style=for-the-badge&logo=rust&logoColor=DEA584)
 ![Go](https://img.shields.io/badge/Go-1A1A1A?style=for-the-badge&logo=go&logoColor=00ADD8)
 
+<br/>
+
+<img src="https://skillicons.dev/icons?i=solidity,rust,go,js,nodejs,git,github,vscode&theme=dark" alt="tools" />
+
 </div>
-
-<!-- ======================= CURRENTLY ======================= -->
-
-## Currently
-
-- Building my first onchain projects in **Solidity + Foundry**
-- Going deeper on **smart-contract security** and **DeFi** internals
-- Sharpening **fuzz / invariant** and **mainnet-fork** testing
-- Reading production protocol code to learn how real DeFi is built
 
 <!-- ======================= STATS ======================= -->
 
-## Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
