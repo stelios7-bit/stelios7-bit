@@ -79,7 +79,6 @@
 - 🏦 **Aave** — interest-rate models & liquidation mechanics
 - 🟡 **Venus** — lending markets on BNB Chain
 - 🦄 **Uniswap** — AMM & constant-product math
-- 💰 **Compound** — money-market design
 
 <!-- ======================= FOOTER ======================= -->
 
