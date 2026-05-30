@@ -36,7 +36,7 @@
 
 <!-- ======================= ABOUT ======================= -->
 
-## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%2300e5ff&height=26" height="26" align="center" /> About Me
+## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%237c3aed&height=26" height="26" align="center" /> About Me
 
 > Smart contract developer focused on **Solidity**, security, and **DeFi** — around 9 months building onchain after a Java backend background.
 
@@ -49,29 +49,29 @@
 
 <!-- ======================= WHAT I WORK WITH ======================= -->
 
-## <img src="https://api.iconify.design/lucide/wrench.svg?color=%2300e5ff&height=26" height="26" align="center" /> What I Work With
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%237c3aed&height=26" height="26" align="center" /> What I Work With
 
-**<img src="https://api.iconify.design/lucide/file-code-2.svg?color=%2300e5ff&height=20" height="18" align="center" /> &nbsp; Smart Contracts**
+**<img src="https://api.iconify.design/lucide/file-code-2.svg?color=%237c3aed&height=20" height="18" align="center" /> &nbsp; Smart Contracts**
 - Solidity · EVM internals (opcodes, gas, storage)
 - Upgradeable contracts — proxy patterns & storage layout
 - ERC standards · OpenZeppelin patterns
 
-**<img src="https://api.iconify.design/lucide/shield-check.svg?color=%2300e5ff&height=20" height="18" align="center" /> &nbsp; Security**
+**<img src="https://api.iconify.design/lucide/shield-check.svg?color=%237c3aed&height=20" height="18" align="center" /> &nbsp; Security**
 - Reentrancy · access control · oracle manipulation
 - Attack-vector analysis & defensive design
 
-**<img src="https://api.iconify.design/lucide/flask-conical.svg?color=%2300e5ff&height=20" height="18" align="center" /> &nbsp; Testing &amp; Tooling**
+**<img src="https://api.iconify.design/lucide/flask-conical.svg?color=%237c3aed&height=20" height="18" align="center" /> &nbsp; Testing &amp; Tooling**
 - Foundry — unit, fuzz, invariant, mainnet-fork
 - Hardhat · Tenderly · MetaMask · Git
 
-**<img src="https://api.iconify.design/lucide/landmark.svg?color=%2300e5ff&height=20" height="18" align="center" /> &nbsp; DeFi**
+**<img src="https://api.iconify.design/lucide/landmark.svg?color=%237c3aed&height=20" height="18" align="center" /> &nbsp; DeFi**
 - Lending & borrowing · interest-rate models
 - Liquidations (incl. toxic liquidation) · AMMs
 
 <!-- ======================= PROTOCOLS ======================= -->
 
-## <img src="https://api.iconify.design/lucide/microscope.svg?color=%2300e5ff&height=26" height="26" align="center" /> Protocols I Study
+## <img src="https://api.iconify.design/lucide/microscope.svg?color=%237c3aed&height=26" height="26" align="center" /> Protocols I Study
 
-- <img src="https://api.iconify.design/lucide/landmark.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; **Aave** — interest-rate models & liquidation mechanics
-- <img src="https://api.iconify.design/lucide/banknote.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; **Venus** — lending markets on BNB Chain
-- <img src="https://api.iconify.design/lucide/arrow-left-right.svg?color=%2300e5ff&height=18" height="16" align="center" /> &nbsp; **Uniswap** — AMM & constant-product math
+- <img src="https://api.iconify.design/lucide/landmark.svg?color=%237c3aed&height=18" height="16" align="center" /> &nbsp; **Aave** — interest-rate models & liquidation mechanics
+- <img src="https://api.iconify.design/lucide/banknote.svg?color=%237c3aed&height=18" height="16" align="center" /> &nbsp; **Venus** — lending markets on BNB Chain
+- <img src="https://api.iconify.design/lucide/arrow-left-right.svg?color=%237c3aed&height=18" height="16" align="center" /> &nbsp; **Uniswap** — AMM & constant-product math
