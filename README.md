@@ -1,26 +1,51 @@
-<h1 align="center">Harsh Kumar Kaithwas</h1>
-<h3 align="center">A passionate Java Backend Developer</h3>
+<h1 align="center">Harsh</h1>
+<h3 align="center">Smart Contract Developer · Web3 & DeFi</h3>
+
+<p align="center">
+  Building on Ethereum with Solidity &amp; Foundry. Focused on smart contracts, the EVM, and DeFi.
+</p>
 
 ---
 
-### 🔗 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A237E?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harsh-kumarkaithwas07)
-![LeetCode Stats](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FHarshKaithwas&query=%24.totalSolved&color=Indigo&label=LeetCode&style=for-the-badge)
+### About
+
+- Smart contract developer working with **Solidity** on the **EVM**.
+- Write and test contracts in **Foundry** — unit, fuzz, and invariant tests.
+- Comfortable with EVM internals: how Solidity compiles, opcodes, gas, and execution.
+- Studying DeFi by reading real protocols — **Aave** and **Venus**.
+- Completed an intensive blockchain program, basic to advanced; ~9 months in Web3.
+- Started out as a Java backend developer — now fully focused on Web3.
+- Currently exploring **Rust** and **Go** for off-chain tooling.
 
 ---
 
-### 🛠 Tech Stack:
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Tech Stack
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-2A2A2A?style=for-the-badge&logo=ethereum&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![EVM](https://img.shields.io/badge/EVM-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🧠 Currently Learning:
-- Spring Boot
-- Hibernate
-- REST API development
+### Focus Areas
+
+- Writing secure, well-tested smart contracts
+- Foundry-based testing: fuzzing &amp; invariants
+- Understanding DeFi mechanisms — lending, collateral, liquidations
+- Reading and dissecting established protocols
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumarkaithwas07)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stelios7-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stelios7-bit&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
+</p>
