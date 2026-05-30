@@ -87,23 +87,22 @@ contract Harsh {
 - **Upgradeable** contracts via proxy patterns and clean storage layout
 - Dissecting real protocols — **Aave**, **Venus**, **Uniswap** — line by line
 
+<!-- ======================= CURRENTLY ======================= -->
+
+### // currently
+
+- Building my first onchain projects with **Solidity + Foundry**
+- Going deeper on **smart contract security** and **DeFi** mechanics
+- Sharpening **fuzz / invariant** and **mainnet-fork** testing
+- Reading protocol code to learn how production DeFi really works
+
 <!-- ======================= STATS ======================= -->
 
 ### // stats
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com/?user=stelios7-bit&hide_border=true&background=0d1117&stroke=6e00ff&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
-
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=stelios7-bit&bg_color=0d1117&color=00e5ff&line=6e00ff&point=ffffff&area=true&hide_border=true" alt="activity" />
-
-</div>
-
-<!-- ======================= SNAKE ======================= -->
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/stelios7-bit/stelios7-bit/output/snake.svg" alt="snake" />
+<img height="175" src="https://streak-stats.demolab.com/?user=stelios7-bit&hide_border=true&background=0d1117&stroke=6e00ff&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 
 </div>
 
