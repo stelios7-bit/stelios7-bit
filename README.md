@@ -36,8 +36,6 @@
 
 <!-- ======================= ABOUT ======================= -->
 
-<img width="100%" src="./assets/divider-v2.png" alt="" />
-
 ## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%2300e5ff&height=26" height="26" align="center" /> About Me
 
 > Smart contract developer focused on **Solidity**, security, and **DeFi** — around 9 months building onchain after a Java backend background.
