@@ -9,13 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=560&lines=Building+onchain+with+Solidity+%26+Foundry;Writing+fuzz+%26+invariant+tests;Studying+DeFi+%E2%80%94+Aave+%2F+Venus;Living+in+the+EVM" alt="typing" />
 </a>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/harsh-kumarkaithwas07">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=stelios7-bit&style=for-the-badge&color=6e00ff&label=PROFILE+VIEWS" alt="views" />
-
 </div>
 
 <!-- ======================= TECH STACK ======================= -->
