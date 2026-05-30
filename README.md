@@ -19,28 +19,6 @@
 </div>
 
 <!-- ======================= ABOUT ======================= -->
-<br/>
-
-```solidity
-contract Harsh {
-    string   public role  = "Smart Contract Developer";
-    string   public chain = "Ethereum / EVM";
-    string[] public stack = ["Solidity", "Foundry"];
-    uint256  public monthsInWeb3 = 9;
-
-    string[] public defi = ["Lending & Borrowing", "Interest Rate Models", "Liquidations", "AMMs"];
-
-    function focus() external pure returns (string memory) {
-        return "Secure contracts, tested hard, DeFi mechanics";
-    }
-
-    function origin() external pure returns (string memory) {
-        return "Started in Java backend. Now fully onchain.";
-    }
-}
-```
-
-<!-- ======================= ABOUT BULLETS ======================= -->
 
 ### // about
 
