@@ -18,6 +18,35 @@
 
 </div>
 
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=00E5FF)
+![Foundry](https://img.shields.io/badge/Foundry-1A1A1A?style=for-the-badge&logo=ethereum&logoColor=00E5FF)
+![Ethereum](https://img.shields.io/badge/Ethereum-1A1A1A?style=for-the-badge&logo=ethereum&logoColor=627EEA)
+![EVM](https://img.shields.io/badge/EVM-1A1A1A?style=for-the-badge&logo=ethereum&logoColor=6e00ff)
+![Hardhat](https://img.shields.io/badge/Hardhat-1A1A1A?style=for-the-badge&logo=hardhat&logoColor=FFF100)
+
+![Tenderly](https://img.shields.io/badge/Tenderly-1A1A1A?style=for-the-badge&logo=tenderly&logoColor=8A4FFF)
+![MetaMask](https://img.shields.io/badge/MetaMask-1A1A1A?style=for-the-badge&logo=metamask&logoColor=F6851B)
+![Uniswap](https://img.shields.io/badge/Uniswap-1A1A1A?style=for-the-badge&logo=uniswap&logoColor=FF007A)
+![Git](https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=F05032)
+
+![Fuzz + Invariant](https://img.shields.io/badge/Fuzz_%2B_Invariant-1A1A1A?style=for-the-badge&logo=ethereum&logoColor=00E5FF)
+![Proxies](https://img.shields.io/badge/Upgradeable_Proxies-1A1A1A?style=for-the-badge&logo=ethereum&logoColor=6e00ff)
+![Security](https://img.shields.io/badge/Attack_Vectors-1A1A1A?style=for-the-badge&logo=hackthebox&logoColor=00E5FF)
+![Rust](https://img.shields.io/badge/Rust-1A1A1A?style=for-the-badge&logo=rust&logoColor=DEA584)
+![Go](https://img.shields.io/badge/Go-1A1A1A?style=for-the-badge&logo=go&logoColor=00ADD8)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=solidity,rust,go,js,nodejs,git,github,vscode&theme=dark" alt="tools" />
+
+</div>
+
 <!-- ======================= ABOUT ======================= -->
 
 ## 👋 About Me
@@ -60,35 +89,6 @@
 - 🟡 **Venus** — lending markets on BNB Chain
 - 🦄 **Uniswap** — AMM & constant-product math
 - 💰 **Compound** — money-market design
-
-<!-- ======================= TECH STACK ======================= -->
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=00E5FF)
-![Foundry](https://img.shields.io/badge/Foundry-1A1A1A?style=for-the-badge&logo=ethereum&logoColor=00E5FF)
-![Ethereum](https://img.shields.io/badge/Ethereum-1A1A1A?style=for-the-badge&logo=ethereum&logoColor=627EEA)
-![EVM](https://img.shields.io/badge/EVM-1A1A1A?style=for-the-badge&logo=ethereum&logoColor=6e00ff)
-![Hardhat](https://img.shields.io/badge/Hardhat-1A1A1A?style=for-the-badge&logo=hardhat&logoColor=FFF100)
-
-![Tenderly](https://img.shields.io/badge/Tenderly-1A1A1A?style=for-the-badge&logo=tenderly&logoColor=8A4FFF)
-![MetaMask](https://img.shields.io/badge/MetaMask-1A1A1A?style=for-the-badge&logo=metamask&logoColor=F6851B)
-![Uniswap](https://img.shields.io/badge/Uniswap-1A1A1A?style=for-the-badge&logo=uniswap&logoColor=FF007A)
-![Git](https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=F05032)
-
-![Fuzz + Invariant](https://img.shields.io/badge/Fuzz_%2B_Invariant-1A1A1A?style=for-the-badge&logo=ethereum&logoColor=00E5FF)
-![Proxies](https://img.shields.io/badge/Upgradeable_Proxies-1A1A1A?style=for-the-badge&logo=ethereum&logoColor=6e00ff)
-![Security](https://img.shields.io/badge/Attack_Vectors-1A1A1A?style=for-the-badge&logo=hackthebox&logoColor=00E5FF)
-![Rust](https://img.shields.io/badge/Rust-1A1A1A?style=for-the-badge&logo=rust&logoColor=DEA584)
-![Go](https://img.shields.io/badge/Go-1A1A1A?style=for-the-badge&logo=go&logoColor=00ADD8)
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=solidity,rust,go,js,nodejs,git,github,vscode&theme=dark" alt="tools" />
-
-</div>
 
 <!-- ======================= STATS ======================= -->
 
