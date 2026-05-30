@@ -84,6 +84,6 @@
 
 <div align="center">
 
-<img width="100%" src="./assets/footer.png" alt="" />
+<img width="100%" src="./assets/footer-v2.png" alt="" />
 
 </div>
