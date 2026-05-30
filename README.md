@@ -1,10 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 <div align="center">
 
-<img width="100%" src="./assets/banner.png" alt="STELIOS" />
-
-<br/>
-
 <a href="https://github.com/stelios7-bit">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=560&lines=Building+onchain+with+Solidity+%26+Foundry;Writing+fuzz+%26+invariant+tests;Studying+DeFi+%E2%80%94+Aave+%2F+Venus;Living+in+the+EVM" alt="typing" />
 </a>
