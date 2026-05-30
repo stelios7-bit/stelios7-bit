@@ -36,7 +36,7 @@
 
 <!-- ======================= ABOUT ======================= -->
 
-<img width="100%" src="./assets/divider.png" alt="" />
+<img width="100%" src="./assets/divider-v2.png" alt="" />
 
 ## 👋 About Me
 
