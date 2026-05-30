@@ -1,13 +1,15 @@
 <!-- ======================= HEADER ======================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0a0a,50:6e00ff,100:00e5ff&text=Harsh&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Smart%20Contract%20Developer%20%C2%B7%20Web3%20%26%20DeFi&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
-
-<a href="https://github.com/stelios7-bit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+onchain+with+Solidity+%26+Foundry;Writing+fuzz+%26+invariant+tests;Studying+DeFi+%E2%80%94+Aave+%2F+Venus;Living+in+the+EVM" alt="typing" />
-</a>
+<img width="100%" src="./assets/header.png" alt="STELIOS — Smart Contract Developer" />
 
 <br/>
+
+<a href="https://github.com/stelios7-bit">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=560&lines=Building+onchain+with+Solidity+%26+Foundry;Writing+fuzz+%26+invariant+tests;Studying+DeFi+%E2%80%94+Aave+%2F+Venus;Living+in+the+EVM" alt="typing" />
+</a>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/harsh-kumarkaithwas07">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
@@ -110,6 +112,6 @@ contract Harsh {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00e5ff,50:6e00ff,100:0a0a0a" alt="footer" />
+<img width="100%" src="./assets/footer.png" alt="" />
 
 </div>
